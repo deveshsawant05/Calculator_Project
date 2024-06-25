@@ -8,15 +8,14 @@ body{
 }
 
 .calculator{
-    box-sizing: border-box;
     width: 400px;
     height: 600px;
-    left: 520px;
-    top: 212px;
-
     background: rgba(217, 217, 217, 0.3);
     border: 1px solid #FFFFFF;
     border-radius: 24px;
+
+    margin: 10vh 5vw;
+
 }
 
 
