@@ -32,7 +32,6 @@ body{
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     gap: 6%;
 }
-
 .buttons{
     background: rgba(0, 0, 0, 0.6);
     border-radius: 7px;
