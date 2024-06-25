@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(116.68deg, #FF6464 10%, #0094FF 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator{
+    box-sizing: border-box;
+    width: 400px;
+    height: 600px;
+    left: 520px;
+    top: 212px;
+
+    background: rgba(217, 217, 217, 0.3);
+    border: 1px solid #FFFFFF;
+    border-radius: 24px;
+}
+
+
