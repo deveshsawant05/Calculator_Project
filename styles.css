@@ -22,6 +22,25 @@ body{
     border: 2px solid #838383;
     border-radius: 10px;
     margin: 8%;
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.input{
+    font-family: "Yomogi", cursive;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: end;
+    height: 100%;
+    min-width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+    background:none;
+    border: none;
+}
+.input:focus{
+    border: 0px solid #555;
 }
 .btn-container{
     display: grid;
@@ -52,4 +71,8 @@ body{
 }
 .clear{
     color: #0094FF;
+}
+
+.pressed{
+    background-color: #727272;
 }
