@@ -31,5 +31,4 @@ function checkButtonData(buttonId) {
         var expression = ($(".input").val()) + ($("#"+buttonId).text());    
         $(".input").val(expression);
     }
-
 }
